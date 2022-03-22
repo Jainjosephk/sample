@@ -1,7 +1,0 @@
-16.03.22 This first file created for Git text
-
-edited for 2nd commit at 10.00pm
-
-edited for 3rd commit at 10.10 pm
-
-after branch1 update
